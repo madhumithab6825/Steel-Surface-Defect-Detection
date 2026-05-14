@@ -228,11 +228,16 @@ app.mount(
 
 def startup_event():
 
-    print(
+    import os
+    for folder in [
+        "datasets", "models", "generated_masks",
+        "generated_sources", "augmented_output",
+        "detect_results", "training_dataset/images",
+        "training_dataset/labels"
+    ]:
+        os.makedirs(folder, exist_ok=True)
 
-        "🚀 Backend Perfectly Started"
-
-    )
+    print("🚀 Backend Perfectly Started")
 
 
 
