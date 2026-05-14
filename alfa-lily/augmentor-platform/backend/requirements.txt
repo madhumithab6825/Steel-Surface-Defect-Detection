@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+pillow
+scikit-learn
+torch
+torchvision
+scipy
+pydantic
+tqdm
+lxml
+effdet
+timm

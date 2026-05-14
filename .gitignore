@@ -1,0 +1,26 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Frontend
+node_modules/
+dist/
+
+# Large generated data
+augmented_output/
+augmented/
+generated_masks/
+generated_sources/
+training_dataset/
+training_workspace/
+detect_results/
+datasets/
+
+# Models
+*.pt
+
+# Temp
+temp_*.jpg
+*.tmp

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Large generated data — do not push
+augmented_output/
+augmented/
+generated_masks/
+generated_sources/
+training_dataset/
+training_workspace/
+detect_results/
+datasets/
+
+# Models — too large for git
+models/*.pt
+
+# Temp files
+temp_*.jpg
+*.tmp
