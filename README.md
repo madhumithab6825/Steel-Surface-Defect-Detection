@@ -1,6 +1,6 @@
-🚗 Augmentor Platform — AI Car Defect Detection System
+ Augmentor Platform — Steel Image Defect Detection System
 An end-to-end AI-powered car defect detection platform built from scratch.
-Annotate car damage images → Generate augmented training data → Train a custom EfficientDet model → Detect defects in real time.
+Annotate steel damage images → Generate augmented training data → Train a custom EfficientDet model → Detect defects in real time.
 
 🎯 What It Does
 This platform solves a real-world problem in the automotive and insurance industry — automatically detecting and localizing car defects (scratches, dents, damage, marks) from photos using a custom-trained deep learning model.
