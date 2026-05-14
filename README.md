@@ -129,6 +129,6 @@ POST	/detect/run	Run detection on an image
 Add screenshots of your UI here after running the app
 
 👤 Author
-Built by [Your Name]
+Built by Madhumitha
 GitHub: https://github.com/madhumithab6825
 LinkedIn: https://www.linkedin.com/in/madhumitha-b-aab107291
