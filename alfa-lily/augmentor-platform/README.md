@@ -185,5 +185,5 @@ npm run dev
 ## 👤 Author
 
 Built by **[Your Name]**  
-GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+GitHub: [https://github.com/madhumithab6825](https://github.com/YOUR_USERNAME)  
+LinkedIn: [https://www.linkedin.com/in/madhumitha-b-aab107291](https://linkedin.com/in/YOUR_PROFILE)
